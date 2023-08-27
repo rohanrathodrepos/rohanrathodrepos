@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Rohan Rathod from Mumbai.<br>Exploring the digital frontier through the eyes of a software creator.<br><br>- 🔭 I’m a post-graduate student in computer applications<br>- 📚 I'm currently working on enhancing my DSA skills<br>- 🌱 I'm currently learning DSA, Java, and Web Frameworks. <br>- 💭 Ask me about Java, DSA etc</p>
+<p align="left">I'm Rohan Rathod from Mumbai.<br>I don't make mistakes in my code. I create unexpected features.<br><br>- 🔭 I’m a post-graduate student in computer applications<br>- 📚 I'm currently working on enhancing my DSA skills<br>- 🌱 I'm currently learning DSA, Java, and Web Frameworks. <br>- 💭 Ask me about Java, DSA etc</p>
 
 ###
 
