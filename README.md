@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">Namaskar  🙏</h1>
+<h1 align="center">Namaste🙏 Duniya</h1>
 
 ###
 
