@@ -6,16 +6,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rohan-rathod-68544b1b5/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="40" alt="linkedin logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="45" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" height="40" alt="discord logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" height="45" alt="discord logo"  />
   </a>
   <a href="https://instagram.com/rohanrath0d?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50" height="40" alt="instagram logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50" height="45" alt="instagram logo"  />
   </a>
   <a href="https://wa.me/9892458388" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" height="40" alt="whatsapp logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" height="45" alt="whatsapp logo"  />
   </a>
 </div>
 
